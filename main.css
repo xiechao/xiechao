@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    overflow-y: scroll; 
+}
+
+:root {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+:root body {
+    position: absolute;
+}
+
+body {
+    width: 100vw;
+}
